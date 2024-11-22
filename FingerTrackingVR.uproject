@@ -41,6 +41,14 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "StudioTelemetry",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
